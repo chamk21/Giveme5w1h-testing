@@ -1,0 +1,3624 @@
+{
+  "dId": "test1",
+  "title": "Taliban attacks German consulate in northern Afghan city of Mazar-i-Sharif with truck bomb",
+  "text": "The Taliban said the bombing late Thursday, which tore a massive crater in the road and overturned cars, was a revenge attack for US air strikes this month in the volatile province of Kunduz that left 32 civilians dead.",
+  "description": "",
+  "category": null,
+  "filename": null,
+  "date_publish": "2005-02-17T00:00:00",
+  "fiveWoneH": {
+    "who": {
+      "extracted": [],
+      "label": "who"
+    },
+    "what": {
+      "extracted": [],
+      "label": "what"
+    },
+    "how": {
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 2,
+                  "word": "attacks",
+                  "originalText": "attacks",
+                  "lemma": "attack",
+                  "characterOffsetBegin": 8,
+                  "characterOffsetEnd": 15,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 3,
+                  "word": "German",
+                  "originalText": "German",
+                  "lemma": "german",
+                  "characterOffsetBegin": 16,
+                  "characterOffsetEnd": 22,
+                  "pos": "JJ",
+                  "ner": "MISC",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 4,
+                  "word": "consulate",
+                  "originalText": "consulate",
+                  "lemma": "consulate",
+                  "characterOffsetBegin": 23,
+                  "characterOffsetEnd": 32,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "in",
+                  "originalText": "in",
+                  "lemma": "in",
+                  "characterOffsetBegin": 33,
+                  "characterOffsetEnd": 35,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "northern",
+                  "originalText": "northern",
+                  "lemma": "northern",
+                  "characterOffsetBegin": 36,
+                  "characterOffsetEnd": 44,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 7,
+                  "word": "Afghan",
+                  "originalText": "Afghan",
+                  "lemma": "Afghan",
+                  "characterOffsetBegin": 45,
+                  "characterOffsetEnd": 51,
+                  "pos": "NNP",
+                  "ner": "MISC",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 8,
+                  "word": "city",
+                  "originalText": "city",
+                  "lemma": "city",
+                  "characterOffsetBegin": 52,
+                  "characterOffsetEnd": 56,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "of",
+                  "originalText": "of",
+                  "lemma": "of",
+                  "characterOffsetBegin": 57,
+                  "characterOffsetEnd": 59,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "Mazar-i-Sharif",
+                  "originalText": "Mazar-i-Sharif",
+                  "lemma": "Mazar-i-Sharif",
+                  "characterOffsetBegin": 60,
+                  "characterOffsetEnd": 74,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "with",
+                  "originalText": "with",
+                  "lemma": "with",
+                  "characterOffsetBegin": 75,
+                  "characterOffsetEnd": 79,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ]
+          ],
+          "score": 0.8499210110584519,
+          "text": "attacks German consulate in northern Afghan city of Mazar-i-Sharif with"
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "in",
+                  "originalText": "in",
+                  "lemma": "in",
+                  "characterOffsetBegin": 33,
+                  "characterOffsetEnd": 35,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "northern",
+                  "originalText": "northern",
+                  "lemma": "northern",
+                  "characterOffsetBegin": 36,
+                  "characterOffsetEnd": 44,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 7,
+                  "word": "Afghan",
+                  "originalText": "Afghan",
+                  "lemma": "Afghan",
+                  "characterOffsetBegin": 45,
+                  "characterOffsetEnd": 51,
+                  "pos": "NNP",
+                  "ner": "MISC",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 8,
+                  "word": "city",
+                  "originalText": "city",
+                  "lemma": "city",
+                  "characterOffsetBegin": 52,
+                  "characterOffsetEnd": 56,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "of",
+                  "originalText": "of",
+                  "lemma": "of",
+                  "characterOffsetBegin": 57,
+                  "characterOffsetEnd": 59,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "Mazar-i-Sharif",
+                  "originalText": "Mazar-i-Sharif",
+                  "lemma": "Mazar-i-Sharif",
+                  "characterOffsetBegin": 60,
+                  "characterOffsetEnd": 74,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "with",
+                  "originalText": "with",
+                  "lemma": "with",
+                  "characterOffsetBegin": 75,
+                  "characterOffsetEnd": 79,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "truck",
+                  "originalText": "truck",
+                  "lemma": "truck",
+                  "characterOffsetBegin": 80,
+                  "characterOffsetEnd": 85,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 13,
+                  "word": "bomb",
+                  "originalText": "bomb",
+                  "lemma": "bomb",
+                  "characterOffsetBegin": 86,
+                  "characterOffsetEnd": 90,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 14,
+                  "word": ".",
+                  "originalText": ".",
+                  "lemma": ".",
+                  "characterOffsetBegin": 90,
+                  "characterOffsetEnd": 91,
+                  "pos": ".",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.8499210110584519,
+          "text": "in northern Afghan city of Mazar-i-Sharif with truck bomb ."
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "a",
+                  "originalText": "a",
+                  "lemma": "a",
+                  "characterOffsetBegin": 149,
+                  "characterOffsetEnd": 150,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "massive",
+                  "originalText": "massive",
+                  "lemma": "massive",
+                  "characterOffsetBegin": 151,
+                  "characterOffsetEnd": 158,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 13,
+                  "word": "crater",
+                  "originalText": "crater",
+                  "lemma": "crater",
+                  "characterOffsetBegin": 159,
+                  "characterOffsetEnd": 165,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 14,
+                  "word": "in",
+                  "originalText": "in",
+                  "lemma": "in",
+                  "characterOffsetBegin": 166,
+                  "characterOffsetEnd": 168,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 15,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 169,
+                  "characterOffsetEnd": 172,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 16,
+                  "word": "road",
+                  "originalText": "road",
+                  "lemma": "road",
+                  "characterOffsetBegin": 173,
+                  "characterOffsetEnd": 177,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 17,
+                  "word": "and",
+                  "originalText": "and",
+                  "lemma": "and",
+                  "characterOffsetBegin": 178,
+                  "characterOffsetEnd": 181,
+                  "pos": "CC",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 18,
+                  "word": "overturned",
+                  "originalText": "overturned",
+                  "lemma": "overturn",
+                  "characterOffsetBegin": 182,
+                  "characterOffsetEnd": 192,
+                  "pos": "VBN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 19,
+                  "word": "cars",
+                  "originalText": "cars",
+                  "lemma": "car",
+                  "characterOffsetBegin": 193,
+                  "characterOffsetEnd": 197,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 20,
+                  "word": ",",
+                  "originalText": ",",
+                  "lemma": ",",
+                  "characterOffsetBegin": 197,
+                  "characterOffsetEnd": 198,
+                  "pos": ",",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              ","
+            ]
+          ],
+          "score": 0.7298578199052133,
+          "text": "a massive crater in the road and overturned cars ,",
+          "nlpIndexSentence": 2
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 32,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 253,
+                  "characterOffsetEnd": 256,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 33,
+                  "word": "volatile",
+                  "originalText": "volatile",
+                  "lemma": "volatile",
+                  "characterOffsetBegin": 257,
+                  "characterOffsetEnd": 265,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 34,
+                  "word": "province",
+                  "originalText": "province",
+                  "lemma": "province",
+                  "characterOffsetBegin": 266,
+                  "characterOffsetEnd": 274,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 35,
+                  "word": "of",
+                  "originalText": "of",
+                  "lemma": "of",
+                  "characterOffsetBegin": 275,
+                  "characterOffsetEnd": 277,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 36,
+                  "word": "Kunduz",
+                  "originalText": "Kunduz",
+                  "lemma": "Kunduz",
+                  "characterOffsetBegin": 278,
+                  "characterOffsetEnd": 284,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 37,
+                  "word": "that",
+                  "originalText": "that",
+                  "lemma": "that",
+                  "characterOffsetBegin": 285,
+                  "characterOffsetEnd": 289,
+                  "pos": "WDT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "WDT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 38,
+                  "word": "left",
+                  "originalText": "left",
+                  "lemma": "leave",
+                  "characterOffsetBegin": 290,
+                  "characterOffsetEnd": 294,
+                  "pos": "VBD",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 39,
+                  "word": "32",
+                  "originalText": "32",
+                  "lemma": "32",
+                  "characterOffsetBegin": 295,
+                  "characterOffsetEnd": 297,
+                  "pos": "CD",
+                  "ner": "NUMBER",
+                  "normalizedNER": "32.0",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "CD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 40,
+                  "word": "civilians",
+                  "originalText": "civilians",
+                  "lemma": "civilian",
+                  "characterOffsetBegin": 298,
+                  "characterOffsetEnd": 307,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 41,
+                  "word": "dead",
+                  "originalText": "dead",
+                  "lemma": "dead",
+                  "characterOffsetBegin": 308,
+                  "characterOffsetEnd": 312,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "JJ"
+            ]
+          ],
+          "score": 0.7298578199052133,
+          "text": "the volatile province of Kunduz that left 32 civilians dead",
+          "nlpIndexSentence": 2
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 40,
+                  "word": "civilians",
+                  "originalText": "civilians",
+                  "lemma": "civilian",
+                  "characterOffsetBegin": 298,
+                  "characterOffsetEnd": 307,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 41,
+                  "word": "dead",
+                  "originalText": "dead",
+                  "lemma": "dead",
+                  "characterOffsetBegin": 308,
+                  "characterOffsetEnd": 312,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 42,
+                  "word": ".",
+                  "originalText": ".",
+                  "lemma": ".",
+                  "characterOffsetBegin": 312,
+                  "characterOffsetEnd": 313,
+                  "pos": ".",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": ""
+                }
+              },
+              "."
+            ]
+          ],
+          "score": 0.7298578199052133,
+          "text": "civilians dead .",
+          "nlpIndexSentence": 2
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 26,
+                  "word": "US",
+                  "originalText": "US",
+                  "lemma": "US",
+                  "characterOffsetBegin": 224,
+                  "characterOffsetEnd": 226,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 27,
+                  "word": "air",
+                  "originalText": "air",
+                  "lemma": "air",
+                  "characterOffsetBegin": 227,
+                  "characterOffsetEnd": 230,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 28,
+                  "word": "strikes",
+                  "originalText": "strikes",
+                  "lemma": "strike",
+                  "characterOffsetBegin": 231,
+                  "characterOffsetEnd": 238,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNS"
+            ]
+          ],
+          "score": -1.0007898894154816,
+          "text": "US air strikes",
+          "nlpIndexSentence": 26
+        }
+      ],
+      "label": "how"
+    },
+    "why": {
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 1,
+                  "word": "The",
+                  "originalText": "The",
+                  "lemma": "the",
+                  "characterOffsetBegin": 94,
+                  "characterOffsetEnd": 97,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 2,
+                  "word": "Taliban",
+                  "originalText": "Taliban",
+                  "lemma": "Taliban",
+                  "characterOffsetBegin": 98,
+                  "characterOffsetEnd": 105,
+                  "pos": "NNP",
+                  "ner": "ORGANIZATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.21266666666666667,
+          "text": "The Taliban",
+          "nlpIndexSentence": 2
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 4,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 111,
+                  "characterOffsetEnd": 114,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 5,
+                  "word": "bombing",
+                  "originalText": "bombing",
+                  "lemma": "bombing",
+                  "characterOffsetBegin": 115,
+                  "characterOffsetEnd": 122,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "late",
+                  "originalText": "late",
+                  "lemma": "late",
+                  "characterOffsetBegin": 123,
+                  "characterOffsetEnd": 127,
+                  "pos": "JJ",
+                  "ner": "DATE",
+                  "normalizedNER": "2005-02-17",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t1",
+                    "type": "DATE",
+                    "value": "2005-02-17"
+                  }
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 7,
+                  "word": "Thursday",
+                  "originalText": "Thursday",
+                  "lemma": "Thursday",
+                  "characterOffsetBegin": 128,
+                  "characterOffsetEnd": 136,
+                  "pos": "NNP",
+                  "ner": "DATE",
+                  "normalizedNER": "2005-02-17",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": "",
+                  "timex": {
+                    "tid": "t1",
+                    "type": "DATE",
+                    "value": "2005-02-17"
+                  }
+                }
+              },
+              "NNP"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 8,
+                  "word": ",",
+                  "originalText": ",",
+                  "lemma": ",",
+                  "characterOffsetBegin": 136,
+                  "characterOffsetEnd": 137,
+                  "pos": ",",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              ","
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 9,
+                  "word": "which",
+                  "originalText": "which",
+                  "lemma": "which",
+                  "characterOffsetBegin": 138,
+                  "characterOffsetEnd": 143,
+                  "pos": "WDT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "WDT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "tore",
+                  "originalText": "tore",
+                  "lemma": "tear",
+                  "characterOffsetBegin": 144,
+                  "characterOffsetEnd": 148,
+                  "pos": "VBD",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBD"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 11,
+                  "word": "a",
+                  "originalText": "a",
+                  "lemma": "a",
+                  "characterOffsetBegin": 149,
+                  "characterOffsetEnd": 150,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 12,
+                  "word": "massive",
+                  "originalText": "massive",
+                  "lemma": "massive",
+                  "characterOffsetBegin": 151,
+                  "characterOffsetEnd": 158,
+                  "pos": "JJ",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 13,
+                  "word": "crater",
+                  "originalText": "crater",
+                  "lemma": "crater",
+                  "characterOffsetBegin": 159,
+                  "characterOffsetEnd": 165,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 14,
+                  "word": "in",
+                  "originalText": "in",
+                  "lemma": "in",
+                  "characterOffsetBegin": 166,
+                  "characterOffsetEnd": 168,
+                  "pos": "IN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "IN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 15,
+                  "word": "the",
+                  "originalText": "the",
+                  "lemma": "the",
+                  "characterOffsetBegin": 169,
+                  "characterOffsetEnd": 172,
+                  "pos": "DT",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 16,
+                  "word": "road",
+                  "originalText": "road",
+                  "lemma": "road",
+                  "characterOffsetBegin": 173,
+                  "characterOffsetEnd": 177,
+                  "pos": "NN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 17,
+                  "word": "and",
+                  "originalText": "and",
+                  "lemma": "and",
+                  "characterOffsetBegin": 178,
+                  "characterOffsetEnd": 181,
+                  "pos": "CC",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "CC"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 18,
+                  "word": "overturned",
+                  "originalText": "overturned",
+                  "lemma": "overturn",
+                  "characterOffsetBegin": 182,
+                  "characterOffsetEnd": 192,
+                  "pos": "VBN",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "VBN"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 19,
+                  "word": "cars",
+                  "originalText": "cars",
+                  "lemma": "car",
+                  "characterOffsetBegin": 193,
+                  "characterOffsetEnd": 197,
+                  "pos": "NNS",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": ""
+                }
+              },
+              "NNS"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 20,
+                  "word": ",",
+                  "originalText": ",",
+                  "lemma": ",",
+                  "characterOffsetBegin": 197,
+                  "characterOffsetEnd": 198,
+                  "pos": ",",
+                  "ner": "O",
+                  "speaker": "PER0",
+                  "before": "",
+                  "after": " "
+                }
+              },
+              ","
+            ]
+          ],
+          "score": 0.21266666666666667,
+          "text": "the bombing late Thursday , which tore a massive crater in the road and overturned cars ,",
+          "nlpIndexSentence": 2
+        }
+      ],
+      "label": "why"
+    },
+    "where": {
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 26,
+                  "word": "US",
+                  "originalText": "US",
+                  "lemma": "US",
+                  "characterOffsetBegin": 224,
+                  "characterOffsetEnd": 226,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.7,
+          "text": "US",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "place_id": 298011824,
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+              "osm_type": "relation",
+              "osm_id": 148838,
+              "boundingbox": [
+                -14.7608358,
+                71.6048217,
+                -180.0,
+                180.0
+              ],
+              "lat": "39.7837304",
+              "lon": "-100.445882",
+              "display_name": "United States",
+              "class": "boundary",
+              "type": "administrative",
+              "importance": 0.9356913674575887,
+              "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            }
+          },
+          "nlpIndexSentence": 2
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 10,
+                  "word": "Mazar-i-Sharif",
+                  "originalText": "Mazar-i-Sharif",
+                  "lemma": "Mazar-i-Sharif",
+                  "characterOffsetBegin": 60,
+                  "characterOffsetEnd": 74,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6832456530916633,
+          "text": "Mazar-i-Sharif",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "place_id": 298965032,
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+              "osm_type": "relation",
+              "osm_id": 6572774,
+              "boundingbox": [
+                36.6828226,
+                36.7382204,
+                67.082892,
+                67.153133
+              ],
+              "lat": "36.7099311",
+              "lon": "67.1092145",
+              "display_name": "\u0645\u0632\u0627\u0631 \u0634\u0631\u064a\u0641, \u0648\u0644\u0627\u06cc\u062a \u0628\u0644\u062e, 1701, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+              "class": "boundary",
+              "type": "administrative",
+              "importance": 0.48413217372004697,
+              "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            }
+          }
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 36,
+                  "word": "Kunduz",
+                  "originalText": "Kunduz",
+                  "lemma": "Kunduz",
+                  "characterOffsetBegin": 278,
+                  "characterOffsetEnd": 284,
+                  "pos": "NNP",
+                  "ner": "LOCATION",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " "
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.6750779660472049,
+          "text": "Kunduz",
+          "enhancement": {
+            "openstreetmap_nominatim": {
+              "place_id": 298314319,
+              "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+              "osm_type": "relation",
+              "osm_id": 1674564,
+              "boundingbox": [
+                36.3009853,
+                37.338611,
+                68.0197504,
+                69.3483945
+              ],
+              "lat": "36.8707187",
+              "lon": "68.7563528",
+              "display_name": "\u0648\u0644\u0627\u06cc\u062a \u06a9\u0646\u062f\u0632, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+              "class": "boundary",
+              "type": "administrative",
+              "importance": 0.47331917812472246,
+              "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+            }
+          },
+          "nlpIndexSentence": 2
+        }
+      ],
+      "label": "where"
+    },
+    "when": {
+      "extracted": [
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 6,
+                  "word": "late",
+                  "originalText": "late",
+                  "lemma": "late",
+                  "characterOffsetBegin": 123,
+                  "characterOffsetEnd": 127,
+                  "pos": "JJ",
+                  "ner": "DATE",
+                  "normalizedNER": "2005-02-17",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t1",
+                    "type": "DATE",
+                    "value": "2005-02-17"
+                  }
+                }
+              },
+              "JJ"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 7,
+                  "word": "Thursday",
+                  "originalText": "Thursday",
+                  "lemma": "Thursday",
+                  "characterOffsetBegin": 128,
+                  "characterOffsetEnd": 136,
+                  "pos": "NNP",
+                  "ner": "DATE",
+                  "normalizedNER": "2005-02-17",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": "",
+                  "timex": {
+                    "tid": "t1",
+                    "type": "DATE",
+                    "value": "2005-02-17"
+                  }
+                }
+              },
+              "NNP"
+            ]
+          ],
+          "score": 0.3294648253413153,
+          "text": "late Thursday",
+          "enhancement": {
+            "timex": {
+              "start_date": "2005-02-17T00:00:00",
+              "end_date": "2005-02-17T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 2
+        },
+        {
+          "parts": [
+            [
+              {
+                "nlpToken": {
+                  "index": 29,
+                  "word": "this",
+                  "originalText": "this",
+                  "lemma": "this",
+                  "characterOffsetBegin": 239,
+                  "characterOffsetEnd": 243,
+                  "pos": "DT",
+                  "ner": "DATE",
+                  "normalizedNER": "2005-02",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t2",
+                    "type": "DATE",
+                    "value": "2005-02"
+                  }
+                }
+              },
+              "DT"
+            ],
+            [
+              {
+                "nlpToken": {
+                  "index": 30,
+                  "word": "month",
+                  "originalText": "month",
+                  "lemma": "month",
+                  "characterOffsetBegin": 244,
+                  "characterOffsetEnd": 249,
+                  "pos": "NN",
+                  "ner": "DATE",
+                  "normalizedNER": "2005-02",
+                  "speaker": "PER0",
+                  "before": " ",
+                  "after": " ",
+                  "timex": {
+                    "tid": "t2",
+                    "type": "DATE",
+                    "value": "2005-02"
+                  }
+                }
+              },
+              "NN"
+            ]
+          ],
+          "score": 0.19881748625090961,
+          "text": "this month",
+          "enhancement": {
+            "timex": {
+              "start_date": "2005-02-01T00:00:00",
+              "end_date": "2005-02-28T23:59:59"
+            }
+          },
+          "nlpIndexSentence": 2
+        }
+      ],
+      "label": "when"
+    }
+  },
+  "fiveWoneH_Metadata": {
+    "process_errors": {}
+  },
+  "fiveWoneH_enhancer": {
+    "coreNLP": {
+      "docDate": "2005-02-17T00:00:00",
+      "sentences": [
+        {
+          "index": 0,
+          "parse": "(ROOT\n  (NP\n    (NP\n      (NP (NNP Taliban) (NNS attacks) (JJ German) (NN consulate))\n      (PP (IN in)\n        (NP\n          (NP (JJ northern) (NNP Afghan) (NN city))\n          (PP (IN of)\n            (NP (NNP Mazar-i-Sharif)))))\n      (PP (IN with)\n        (NP (NN truck) (NN bomb))))\n    (. .)))",
+          "basicDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 2,
+              "dependentGloss": "attacks"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 1,
+              "dependentGloss": "Taliban"
+            },
+            {
+              "dep": "amod",
+              "governor": 4,
+              "governorGloss": "consulate",
+              "dependent": 3,
+              "dependentGloss": "German"
+            },
+            {
+              "dep": "dobj",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 4,
+              "dependentGloss": "consulate"
+            },
+            {
+              "dep": "case",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 5,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "amod",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 6,
+              "dependentGloss": "northern"
+            },
+            {
+              "dep": "amod",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 7,
+              "dependentGloss": "Afghan"
+            },
+            {
+              "dep": "nmod",
+              "governor": 4,
+              "governorGloss": "consulate",
+              "dependent": 8,
+              "dependentGloss": "city"
+            },
+            {
+              "dep": "case",
+              "governor": 10,
+              "governorGloss": "Mazar-i-Sharif",
+              "dependent": 9,
+              "dependentGloss": "of"
+            },
+            {
+              "dep": "nmod",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 10,
+              "dependentGloss": "Mazar-i-Sharif"
+            },
+            {
+              "dep": "case",
+              "governor": 13,
+              "governorGloss": "bomb",
+              "dependent": 11,
+              "dependentGloss": "with"
+            },
+            {
+              "dep": "compound",
+              "governor": 13,
+              "governorGloss": "bomb",
+              "dependent": 12,
+              "dependentGloss": "truck"
+            },
+            {
+              "dep": "nmod",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 13,
+              "dependentGloss": "bomb"
+            },
+            {
+              "dep": "punct",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 14,
+              "dependentGloss": "."
+            }
+          ],
+          "enhancedDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 2,
+              "dependentGloss": "attacks"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 1,
+              "dependentGloss": "Taliban"
+            },
+            {
+              "dep": "amod",
+              "governor": 4,
+              "governorGloss": "consulate",
+              "dependent": 3,
+              "dependentGloss": "German"
+            },
+            {
+              "dep": "dobj",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 4,
+              "dependentGloss": "consulate"
+            },
+            {
+              "dep": "case",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 5,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "amod",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 6,
+              "dependentGloss": "northern"
+            },
+            {
+              "dep": "amod",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 7,
+              "dependentGloss": "Afghan"
+            },
+            {
+              "dep": "nmod:in",
+              "governor": 4,
+              "governorGloss": "consulate",
+              "dependent": 8,
+              "dependentGloss": "city"
+            },
+            {
+              "dep": "case",
+              "governor": 10,
+              "governorGloss": "Mazar-i-Sharif",
+              "dependent": 9,
+              "dependentGloss": "of"
+            },
+            {
+              "dep": "nmod:of",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 10,
+              "dependentGloss": "Mazar-i-Sharif"
+            },
+            {
+              "dep": "case",
+              "governor": 13,
+              "governorGloss": "bomb",
+              "dependent": 11,
+              "dependentGloss": "with"
+            },
+            {
+              "dep": "compound",
+              "governor": 13,
+              "governorGloss": "bomb",
+              "dependent": 12,
+              "dependentGloss": "truck"
+            },
+            {
+              "dep": "nmod:with",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 13,
+              "dependentGloss": "bomb"
+            },
+            {
+              "dep": "punct",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 14,
+              "dependentGloss": "."
+            }
+          ],
+          "enhancedPlusPlusDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 2,
+              "dependentGloss": "attacks"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 1,
+              "dependentGloss": "Taliban"
+            },
+            {
+              "dep": "amod",
+              "governor": 4,
+              "governorGloss": "consulate",
+              "dependent": 3,
+              "dependentGloss": "German"
+            },
+            {
+              "dep": "dobj",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 4,
+              "dependentGloss": "consulate"
+            },
+            {
+              "dep": "case",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 5,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "amod",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 6,
+              "dependentGloss": "northern"
+            },
+            {
+              "dep": "amod",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 7,
+              "dependentGloss": "Afghan"
+            },
+            {
+              "dep": "nmod:in",
+              "governor": 4,
+              "governorGloss": "consulate",
+              "dependent": 8,
+              "dependentGloss": "city"
+            },
+            {
+              "dep": "case",
+              "governor": 10,
+              "governorGloss": "Mazar-i-Sharif",
+              "dependent": 9,
+              "dependentGloss": "of"
+            },
+            {
+              "dep": "nmod:of",
+              "governor": 8,
+              "governorGloss": "city",
+              "dependent": 10,
+              "dependentGloss": "Mazar-i-Sharif"
+            },
+            {
+              "dep": "case",
+              "governor": 13,
+              "governorGloss": "bomb",
+              "dependent": 11,
+              "dependentGloss": "with"
+            },
+            {
+              "dep": "compound",
+              "governor": 13,
+              "governorGloss": "bomb",
+              "dependent": 12,
+              "dependentGloss": "truck"
+            },
+            {
+              "dep": "nmod:with",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 13,
+              "dependentGloss": "bomb"
+            },
+            {
+              "dep": "punct",
+              "governor": 2,
+              "governorGloss": "attacks",
+              "dependent": 14,
+              "dependentGloss": "."
+            }
+          ],
+          "tokens": [
+            {
+              "index": 1,
+              "word": "Taliban",
+              "originalText": "Taliban",
+              "lemma": "Taliban",
+              "characterOffsetBegin": 0,
+              "characterOffsetEnd": 7,
+              "pos": "NNP",
+              "ner": "ORGANIZATION",
+              "speaker": "PER0",
+              "before": "",
+              "after": " "
+            },
+            {
+              "index": 2,
+              "word": "attacks",
+              "originalText": "attacks",
+              "lemma": "attack",
+              "characterOffsetBegin": 8,
+              "characterOffsetEnd": 15,
+              "pos": "NNS",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 3,
+              "word": "German",
+              "originalText": "German",
+              "lemma": "german",
+              "characterOffsetBegin": 16,
+              "characterOffsetEnd": 22,
+              "pos": "JJ",
+              "ner": "MISC",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 4,
+              "word": "consulate",
+              "originalText": "consulate",
+              "lemma": "consulate",
+              "characterOffsetBegin": 23,
+              "characterOffsetEnd": 32,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 5,
+              "word": "in",
+              "originalText": "in",
+              "lemma": "in",
+              "characterOffsetBegin": 33,
+              "characterOffsetEnd": 35,
+              "pos": "IN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 6,
+              "word": "northern",
+              "originalText": "northern",
+              "lemma": "northern",
+              "characterOffsetBegin": 36,
+              "characterOffsetEnd": 44,
+              "pos": "JJ",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 7,
+              "word": "Afghan",
+              "originalText": "Afghan",
+              "lemma": "Afghan",
+              "characterOffsetBegin": 45,
+              "characterOffsetEnd": 51,
+              "pos": "NNP",
+              "ner": "MISC",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 8,
+              "word": "city",
+              "originalText": "city",
+              "lemma": "city",
+              "characterOffsetBegin": 52,
+              "characterOffsetEnd": 56,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 9,
+              "word": "of",
+              "originalText": "of",
+              "lemma": "of",
+              "characterOffsetBegin": 57,
+              "characterOffsetEnd": 59,
+              "pos": "IN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 10,
+              "word": "Mazar-i-Sharif",
+              "originalText": "Mazar-i-Sharif",
+              "lemma": "Mazar-i-Sharif",
+              "characterOffsetBegin": 60,
+              "characterOffsetEnd": 74,
+              "pos": "NNP",
+              "ner": "LOCATION",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 11,
+              "word": "with",
+              "originalText": "with",
+              "lemma": "with",
+              "characterOffsetBegin": 75,
+              "characterOffsetEnd": 79,
+              "pos": "IN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 12,
+              "word": "truck",
+              "originalText": "truck",
+              "lemma": "truck",
+              "characterOffsetBegin": 80,
+              "characterOffsetEnd": 85,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 13,
+              "word": "bomb",
+              "originalText": "bomb",
+              "lemma": "bomb",
+              "characterOffsetBegin": 86,
+              "characterOffsetEnd": 90,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": ""
+            },
+            {
+              "index": 14,
+              "word": ".",
+              "originalText": ".",
+              "lemma": ".",
+              "characterOffsetBegin": 90,
+              "characterOffsetEnd": 91,
+              "pos": ".",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": "",
+              "after": " "
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "parse": "(ROOT (. .))",
+          "basicDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 1,
+              "dependentGloss": "."
+            }
+          ],
+          "enhancedDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 1,
+              "dependentGloss": "."
+            }
+          ],
+          "enhancedPlusPlusDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 1,
+              "dependentGloss": "."
+            }
+          ],
+          "tokens": [
+            {
+              "index": 1,
+              "word": ".",
+              "originalText": ".",
+              "lemma": ".",
+              "characterOffsetBegin": 92,
+              "characterOffsetEnd": 93,
+              "pos": ".",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "parse": "(ROOT\n  (S\n    (NP (DT The) (NNP Taliban))\n    (VP (VBD said)\n      (SBAR\n        (S\n          (NP\n            (NP (DT the) (NN bombing))\n            (NP (JJ late) (NNP Thursday))\n            (, ,)\n            (SBAR\n              (WHNP (WDT which))\n              (S\n                (VP\n                  (VP (VBD tore)\n                    (NP (DT a) (JJ massive) (NN crater))\n                    (PP (IN in)\n                      (NP (DT the) (NN road))))\n                  (CC and)\n                  (NP (VBN overturned) (NNS cars)))))\n            (, ,))\n          (VP (VBD was)\n            (NP\n              (NP (DT a) (NN revenge) (NN attack))\n              (PP (IN for)\n                (NP (NNP US) (NN air) (NNS strikes)))\n              (NP (DT this) (NN month)))\n            (PP (IN in)\n              (NP\n                (NP (DT the) (JJ volatile) (NN province))\n                (PP (IN of)\n                  (NP\n                    (NP (NNP Kunduz))\n                    (SBAR\n                      (WHNP (WDT that))\n                      (S\n                        (VP (VBD left)\n                          (S\n                            (NP (CD 32) (NNS civilians))\n                            (ADJP (JJ dead))))))))))))))\n    (. .)))",
+          "basicDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 3,
+              "dependentGloss": "said"
+            },
+            {
+              "dep": "det",
+              "governor": 2,
+              "governorGloss": "Taliban",
+              "dependent": 1,
+              "dependentGloss": "The"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 2,
+              "dependentGloss": "Taliban"
+            },
+            {
+              "dep": "det",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 4,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 5,
+              "dependentGloss": "bombing"
+            },
+            {
+              "dep": "amod",
+              "governor": 7,
+              "governorGloss": "Thursday",
+              "dependent": 6,
+              "dependentGloss": "late"
+            },
+            {
+              "dep": "nmod:tmod",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 7,
+              "dependentGloss": "Thursday"
+            },
+            {
+              "dep": "punct",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 8,
+              "dependentGloss": ","
+            },
+            {
+              "dep": "nsubj",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 9,
+              "dependentGloss": "which"
+            },
+            {
+              "dep": "acl:relcl",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 10,
+              "dependentGloss": "tore"
+            },
+            {
+              "dep": "det",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 11,
+              "dependentGloss": "a"
+            },
+            {
+              "dep": "amod",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 12,
+              "dependentGloss": "massive"
+            },
+            {
+              "dep": "dobj",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 13,
+              "dependentGloss": "crater"
+            },
+            {
+              "dep": "case",
+              "governor": 16,
+              "governorGloss": "road",
+              "dependent": 14,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "det",
+              "governor": 16,
+              "governorGloss": "road",
+              "dependent": 15,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "nmod",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 16,
+              "dependentGloss": "road"
+            },
+            {
+              "dep": "cc",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 17,
+              "dependentGloss": "and"
+            },
+            {
+              "dep": "amod",
+              "governor": 19,
+              "governorGloss": "cars",
+              "dependent": 18,
+              "dependentGloss": "overturned"
+            },
+            {
+              "dep": "conj",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 19,
+              "dependentGloss": "cars"
+            },
+            {
+              "dep": "punct",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 20,
+              "dependentGloss": ","
+            },
+            {
+              "dep": "cop",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 21,
+              "dependentGloss": "was"
+            },
+            {
+              "dep": "det",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 22,
+              "dependentGloss": "a"
+            },
+            {
+              "dep": "compound",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 23,
+              "dependentGloss": "revenge"
+            },
+            {
+              "dep": "ccomp",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 24,
+              "dependentGloss": "attack"
+            },
+            {
+              "dep": "case",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 25,
+              "dependentGloss": "for"
+            },
+            {
+              "dep": "compound",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 26,
+              "dependentGloss": "US"
+            },
+            {
+              "dep": "compound",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 27,
+              "dependentGloss": "air"
+            },
+            {
+              "dep": "nmod",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 28,
+              "dependentGloss": "strikes"
+            },
+            {
+              "dep": "det",
+              "governor": 30,
+              "governorGloss": "month",
+              "dependent": 29,
+              "dependentGloss": "this"
+            },
+            {
+              "dep": "nmod:tmod",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 30,
+              "dependentGloss": "month"
+            },
+            {
+              "dep": "case",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 31,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "det",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 32,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "amod",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 33,
+              "dependentGloss": "volatile"
+            },
+            {
+              "dep": "nmod",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 34,
+              "dependentGloss": "province"
+            },
+            {
+              "dep": "case",
+              "governor": 36,
+              "governorGloss": "Kunduz",
+              "dependent": 35,
+              "dependentGloss": "of"
+            },
+            {
+              "dep": "nmod",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 36,
+              "dependentGloss": "Kunduz"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 38,
+              "governorGloss": "left",
+              "dependent": 37,
+              "dependentGloss": "that"
+            },
+            {
+              "dep": "acl:relcl",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 38,
+              "dependentGloss": "left"
+            },
+            {
+              "dep": "nummod",
+              "governor": 40,
+              "governorGloss": "civilians",
+              "dependent": 39,
+              "dependentGloss": "32"
+            },
+            {
+              "dep": "nmod:npmod",
+              "governor": 41,
+              "governorGloss": "dead",
+              "dependent": 40,
+              "dependentGloss": "civilians"
+            },
+            {
+              "dep": "xcomp",
+              "governor": 38,
+              "governorGloss": "left",
+              "dependent": 41,
+              "dependentGloss": "dead"
+            },
+            {
+              "dep": "punct",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 42,
+              "dependentGloss": "."
+            }
+          ],
+          "enhancedDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 3,
+              "dependentGloss": "said"
+            },
+            {
+              "dep": "det",
+              "governor": 2,
+              "governorGloss": "Taliban",
+              "dependent": 1,
+              "dependentGloss": "The"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 2,
+              "dependentGloss": "Taliban"
+            },
+            {
+              "dep": "det",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 4,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 5,
+              "dependentGloss": "bombing"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 5,
+              "dependentGloss": "bombing"
+            },
+            {
+              "dep": "amod",
+              "governor": 7,
+              "governorGloss": "Thursday",
+              "dependent": 6,
+              "dependentGloss": "late"
+            },
+            {
+              "dep": "nmod:tmod",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 7,
+              "dependentGloss": "Thursday"
+            },
+            {
+              "dep": "punct",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 8,
+              "dependentGloss": ","
+            },
+            {
+              "dep": "ref",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 9,
+              "dependentGloss": "which"
+            },
+            {
+              "dep": "acl:relcl",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 10,
+              "dependentGloss": "tore"
+            },
+            {
+              "dep": "det",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 11,
+              "dependentGloss": "a"
+            },
+            {
+              "dep": "amod",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 12,
+              "dependentGloss": "massive"
+            },
+            {
+              "dep": "dobj",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 13,
+              "dependentGloss": "crater"
+            },
+            {
+              "dep": "case",
+              "governor": 16,
+              "governorGloss": "road",
+              "dependent": 14,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "det",
+              "governor": 16,
+              "governorGloss": "road",
+              "dependent": 15,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "nmod:in",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 16,
+              "dependentGloss": "road"
+            },
+            {
+              "dep": "cc",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 17,
+              "dependentGloss": "and"
+            },
+            {
+              "dep": "amod",
+              "governor": 19,
+              "governorGloss": "cars",
+              "dependent": 18,
+              "dependentGloss": "overturned"
+            },
+            {
+              "dep": "acl:relcl",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 19,
+              "dependentGloss": "cars"
+            },
+            {
+              "dep": "conj:and",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 19,
+              "dependentGloss": "cars"
+            },
+            {
+              "dep": "punct",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 20,
+              "dependentGloss": ","
+            },
+            {
+              "dep": "cop",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 21,
+              "dependentGloss": "was"
+            },
+            {
+              "dep": "det",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 22,
+              "dependentGloss": "a"
+            },
+            {
+              "dep": "compound",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 23,
+              "dependentGloss": "revenge"
+            },
+            {
+              "dep": "ccomp",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 24,
+              "dependentGloss": "attack"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 38,
+              "governorGloss": "left",
+              "dependent": 24,
+              "dependentGloss": "attack"
+            },
+            {
+              "dep": "case",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 25,
+              "dependentGloss": "for"
+            },
+            {
+              "dep": "compound",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 26,
+              "dependentGloss": "US"
+            },
+            {
+              "dep": "compound",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 27,
+              "dependentGloss": "air"
+            },
+            {
+              "dep": "nmod:for",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 28,
+              "dependentGloss": "strikes"
+            },
+            {
+              "dep": "det",
+              "governor": 30,
+              "governorGloss": "month",
+              "dependent": 29,
+              "dependentGloss": "this"
+            },
+            {
+              "dep": "nmod:tmod",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 30,
+              "dependentGloss": "month"
+            },
+            {
+              "dep": "case",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 31,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "det",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 32,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "amod",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 33,
+              "dependentGloss": "volatile"
+            },
+            {
+              "dep": "nmod:in",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 34,
+              "dependentGloss": "province"
+            },
+            {
+              "dep": "case",
+              "governor": 36,
+              "governorGloss": "Kunduz",
+              "dependent": 35,
+              "dependentGloss": "of"
+            },
+            {
+              "dep": "nmod:of",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 36,
+              "dependentGloss": "Kunduz"
+            },
+            {
+              "dep": "ref",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 37,
+              "dependentGloss": "that"
+            },
+            {
+              "dep": "acl:relcl",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 38,
+              "dependentGloss": "left"
+            },
+            {
+              "dep": "nummod",
+              "governor": 40,
+              "governorGloss": "civilians",
+              "dependent": 39,
+              "dependentGloss": "32"
+            },
+            {
+              "dep": "nmod:npmod",
+              "governor": 41,
+              "governorGloss": "dead",
+              "dependent": 40,
+              "dependentGloss": "civilians"
+            },
+            {
+              "dep": "xcomp",
+              "governor": 38,
+              "governorGloss": "left",
+              "dependent": 41,
+              "dependentGloss": "dead"
+            },
+            {
+              "dep": "punct",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 42,
+              "dependentGloss": "."
+            }
+          ],
+          "enhancedPlusPlusDependencies": [
+            {
+              "dep": "ROOT",
+              "governor": 0,
+              "governorGloss": "ROOT",
+              "dependent": 3,
+              "dependentGloss": "said"
+            },
+            {
+              "dep": "det",
+              "governor": 2,
+              "governorGloss": "Taliban",
+              "dependent": 1,
+              "dependentGloss": "The"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 2,
+              "dependentGloss": "Taliban"
+            },
+            {
+              "dep": "det",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 4,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 5,
+              "dependentGloss": "bombing"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 5,
+              "dependentGloss": "bombing"
+            },
+            {
+              "dep": "amod",
+              "governor": 7,
+              "governorGloss": "Thursday",
+              "dependent": 6,
+              "dependentGloss": "late"
+            },
+            {
+              "dep": "nmod:tmod",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 7,
+              "dependentGloss": "Thursday"
+            },
+            {
+              "dep": "punct",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 8,
+              "dependentGloss": ","
+            },
+            {
+              "dep": "ref",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 9,
+              "dependentGloss": "which"
+            },
+            {
+              "dep": "acl:relcl",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 10,
+              "dependentGloss": "tore"
+            },
+            {
+              "dep": "det",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 11,
+              "dependentGloss": "a"
+            },
+            {
+              "dep": "amod",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 12,
+              "dependentGloss": "massive"
+            },
+            {
+              "dep": "dobj",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 13,
+              "dependentGloss": "crater"
+            },
+            {
+              "dep": "case",
+              "governor": 16,
+              "governorGloss": "road",
+              "dependent": 14,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "det",
+              "governor": 16,
+              "governorGloss": "road",
+              "dependent": 15,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "nmod:in",
+              "governor": 13,
+              "governorGloss": "crater",
+              "dependent": 16,
+              "dependentGloss": "road"
+            },
+            {
+              "dep": "cc",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 17,
+              "dependentGloss": "and"
+            },
+            {
+              "dep": "amod",
+              "governor": 19,
+              "governorGloss": "cars",
+              "dependent": 18,
+              "dependentGloss": "overturned"
+            },
+            {
+              "dep": "acl:relcl",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 19,
+              "dependentGloss": "cars"
+            },
+            {
+              "dep": "conj:and",
+              "governor": 10,
+              "governorGloss": "tore",
+              "dependent": 19,
+              "dependentGloss": "cars"
+            },
+            {
+              "dep": "punct",
+              "governor": 5,
+              "governorGloss": "bombing",
+              "dependent": 20,
+              "dependentGloss": ","
+            },
+            {
+              "dep": "cop",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 21,
+              "dependentGloss": "was"
+            },
+            {
+              "dep": "det",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 22,
+              "dependentGloss": "a"
+            },
+            {
+              "dep": "compound",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 23,
+              "dependentGloss": "revenge"
+            },
+            {
+              "dep": "ccomp",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 24,
+              "dependentGloss": "attack"
+            },
+            {
+              "dep": "nsubj",
+              "governor": 38,
+              "governorGloss": "left",
+              "dependent": 24,
+              "dependentGloss": "attack"
+            },
+            {
+              "dep": "case",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 25,
+              "dependentGloss": "for"
+            },
+            {
+              "dep": "compound",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 26,
+              "dependentGloss": "US"
+            },
+            {
+              "dep": "compound",
+              "governor": 28,
+              "governorGloss": "strikes",
+              "dependent": 27,
+              "dependentGloss": "air"
+            },
+            {
+              "dep": "nmod:for",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 28,
+              "dependentGloss": "strikes"
+            },
+            {
+              "dep": "det",
+              "governor": 30,
+              "governorGloss": "month",
+              "dependent": 29,
+              "dependentGloss": "this"
+            },
+            {
+              "dep": "nmod:tmod",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 30,
+              "dependentGloss": "month"
+            },
+            {
+              "dep": "case",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 31,
+              "dependentGloss": "in"
+            },
+            {
+              "dep": "det",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 32,
+              "dependentGloss": "the"
+            },
+            {
+              "dep": "amod",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 33,
+              "dependentGloss": "volatile"
+            },
+            {
+              "dep": "nmod:in",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 34,
+              "dependentGloss": "province"
+            },
+            {
+              "dep": "case",
+              "governor": 36,
+              "governorGloss": "Kunduz",
+              "dependent": 35,
+              "dependentGloss": "of"
+            },
+            {
+              "dep": "nmod:of",
+              "governor": 34,
+              "governorGloss": "province",
+              "dependent": 36,
+              "dependentGloss": "Kunduz"
+            },
+            {
+              "dep": "ref",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 37,
+              "dependentGloss": "that"
+            },
+            {
+              "dep": "acl:relcl",
+              "governor": 24,
+              "governorGloss": "attack",
+              "dependent": 38,
+              "dependentGloss": "left"
+            },
+            {
+              "dep": "nummod",
+              "governor": 40,
+              "governorGloss": "civilians",
+              "dependent": 39,
+              "dependentGloss": "32"
+            },
+            {
+              "dep": "nmod:npmod",
+              "governor": 41,
+              "governorGloss": "dead",
+              "dependent": 40,
+              "dependentGloss": "civilians"
+            },
+            {
+              "dep": "xcomp",
+              "governor": 38,
+              "governorGloss": "left",
+              "dependent": 41,
+              "dependentGloss": "dead"
+            },
+            {
+              "dep": "punct",
+              "governor": 3,
+              "governorGloss": "said",
+              "dependent": 42,
+              "dependentGloss": "."
+            }
+          ],
+          "tokens": [
+            {
+              "index": 1,
+              "word": "The",
+              "originalText": "The",
+              "lemma": "the",
+              "characterOffsetBegin": 94,
+              "characterOffsetEnd": 97,
+              "pos": "DT",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 2,
+              "word": "Taliban",
+              "originalText": "Taliban",
+              "lemma": "Taliban",
+              "characterOffsetBegin": 98,
+              "characterOffsetEnd": 105,
+              "pos": "NNP",
+              "ner": "ORGANIZATION",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 3,
+              "word": "said",
+              "originalText": "said",
+              "lemma": "say",
+              "characterOffsetBegin": 106,
+              "characterOffsetEnd": 110,
+              "pos": "VBD",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 4,
+              "word": "the",
+              "originalText": "the",
+              "lemma": "the",
+              "characterOffsetBegin": 111,
+              "characterOffsetEnd": 114,
+              "pos": "DT",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 5,
+              "word": "bombing",
+              "originalText": "bombing",
+              "lemma": "bombing",
+              "characterOffsetBegin": 115,
+              "characterOffsetEnd": 122,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 6,
+              "word": "late",
+              "originalText": "late",
+              "lemma": "late",
+              "characterOffsetBegin": 123,
+              "characterOffsetEnd": 127,
+              "pos": "JJ",
+              "ner": "DATE",
+              "normalizedNER": "2005-02-17",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " ",
+              "timex": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-02-17"
+              }
+            },
+            {
+              "index": 7,
+              "word": "Thursday",
+              "originalText": "Thursday",
+              "lemma": "Thursday",
+              "characterOffsetBegin": 128,
+              "characterOffsetEnd": 136,
+              "pos": "NNP",
+              "ner": "DATE",
+              "normalizedNER": "2005-02-17",
+              "speaker": "PER0",
+              "before": " ",
+              "after": "",
+              "timex": {
+                "tid": "t1",
+                "type": "DATE",
+                "value": "2005-02-17"
+              }
+            },
+            {
+              "index": 8,
+              "word": ",",
+              "originalText": ",",
+              "lemma": ",",
+              "characterOffsetBegin": 136,
+              "characterOffsetEnd": 137,
+              "pos": ",",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": "",
+              "after": " "
+            },
+            {
+              "index": 9,
+              "word": "which",
+              "originalText": "which",
+              "lemma": "which",
+              "characterOffsetBegin": 138,
+              "characterOffsetEnd": 143,
+              "pos": "WDT",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 10,
+              "word": "tore",
+              "originalText": "tore",
+              "lemma": "tear",
+              "characterOffsetBegin": 144,
+              "characterOffsetEnd": 148,
+              "pos": "VBD",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 11,
+              "word": "a",
+              "originalText": "a",
+              "lemma": "a",
+              "characterOffsetBegin": 149,
+              "characterOffsetEnd": 150,
+              "pos": "DT",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 12,
+              "word": "massive",
+              "originalText": "massive",
+              "lemma": "massive",
+              "characterOffsetBegin": 151,
+              "characterOffsetEnd": 158,
+              "pos": "JJ",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 13,
+              "word": "crater",
+              "originalText": "crater",
+              "lemma": "crater",
+              "characterOffsetBegin": 159,
+              "characterOffsetEnd": 165,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 14,
+              "word": "in",
+              "originalText": "in",
+              "lemma": "in",
+              "characterOffsetBegin": 166,
+              "characterOffsetEnd": 168,
+              "pos": "IN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 15,
+              "word": "the",
+              "originalText": "the",
+              "lemma": "the",
+              "characterOffsetBegin": 169,
+              "characterOffsetEnd": 172,
+              "pos": "DT",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 16,
+              "word": "road",
+              "originalText": "road",
+              "lemma": "road",
+              "characterOffsetBegin": 173,
+              "characterOffsetEnd": 177,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 17,
+              "word": "and",
+              "originalText": "and",
+              "lemma": "and",
+              "characterOffsetBegin": 178,
+              "characterOffsetEnd": 181,
+              "pos": "CC",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 18,
+              "word": "overturned",
+              "originalText": "overturned",
+              "lemma": "overturn",
+              "characterOffsetBegin": 182,
+              "characterOffsetEnd": 192,
+              "pos": "VBN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 19,
+              "word": "cars",
+              "originalText": "cars",
+              "lemma": "car",
+              "characterOffsetBegin": 193,
+              "characterOffsetEnd": 197,
+              "pos": "NNS",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": ""
+            },
+            {
+              "index": 20,
+              "word": ",",
+              "originalText": ",",
+              "lemma": ",",
+              "characterOffsetBegin": 197,
+              "characterOffsetEnd": 198,
+              "pos": ",",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": "",
+              "after": " "
+            },
+            {
+              "index": 21,
+              "word": "was",
+              "originalText": "was",
+              "lemma": "be",
+              "characterOffsetBegin": 199,
+              "characterOffsetEnd": 202,
+              "pos": "VBD",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 22,
+              "word": "a",
+              "originalText": "a",
+              "lemma": "a",
+              "characterOffsetBegin": 203,
+              "characterOffsetEnd": 204,
+              "pos": "DT",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 23,
+              "word": "revenge",
+              "originalText": "revenge",
+              "lemma": "revenge",
+              "characterOffsetBegin": 205,
+              "characterOffsetEnd": 212,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 24,
+              "word": "attack",
+              "originalText": "attack",
+              "lemma": "attack",
+              "characterOffsetBegin": 213,
+              "characterOffsetEnd": 219,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 25,
+              "word": "for",
+              "originalText": "for",
+              "lemma": "for",
+              "characterOffsetBegin": 220,
+              "characterOffsetEnd": 223,
+              "pos": "IN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 26,
+              "word": "US",
+              "originalText": "US",
+              "lemma": "US",
+              "characterOffsetBegin": 224,
+              "characterOffsetEnd": 226,
+              "pos": "NNP",
+              "ner": "LOCATION",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 27,
+              "word": "air",
+              "originalText": "air",
+              "lemma": "air",
+              "characterOffsetBegin": 227,
+              "characterOffsetEnd": 230,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 28,
+              "word": "strikes",
+              "originalText": "strikes",
+              "lemma": "strike",
+              "characterOffsetBegin": 231,
+              "characterOffsetEnd": 238,
+              "pos": "NNS",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 29,
+              "word": "this",
+              "originalText": "this",
+              "lemma": "this",
+              "characterOffsetBegin": 239,
+              "characterOffsetEnd": 243,
+              "pos": "DT",
+              "ner": "DATE",
+              "normalizedNER": "2005-02",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " ",
+              "timex": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2005-02"
+              }
+            },
+            {
+              "index": 30,
+              "word": "month",
+              "originalText": "month",
+              "lemma": "month",
+              "characterOffsetBegin": 244,
+              "characterOffsetEnd": 249,
+              "pos": "NN",
+              "ner": "DATE",
+              "normalizedNER": "2005-02",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " ",
+              "timex": {
+                "tid": "t2",
+                "type": "DATE",
+                "value": "2005-02"
+              }
+            },
+            {
+              "index": 31,
+              "word": "in",
+              "originalText": "in",
+              "lemma": "in",
+              "characterOffsetBegin": 250,
+              "characterOffsetEnd": 252,
+              "pos": "IN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 32,
+              "word": "the",
+              "originalText": "the",
+              "lemma": "the",
+              "characterOffsetBegin": 253,
+              "characterOffsetEnd": 256,
+              "pos": "DT",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 33,
+              "word": "volatile",
+              "originalText": "volatile",
+              "lemma": "volatile",
+              "characterOffsetBegin": 257,
+              "characterOffsetEnd": 265,
+              "pos": "JJ",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 34,
+              "word": "province",
+              "originalText": "province",
+              "lemma": "province",
+              "characterOffsetBegin": 266,
+              "characterOffsetEnd": 274,
+              "pos": "NN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 35,
+              "word": "of",
+              "originalText": "of",
+              "lemma": "of",
+              "characterOffsetBegin": 275,
+              "characterOffsetEnd": 277,
+              "pos": "IN",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 36,
+              "word": "Kunduz",
+              "originalText": "Kunduz",
+              "lemma": "Kunduz",
+              "characterOffsetBegin": 278,
+              "characterOffsetEnd": 284,
+              "pos": "NNP",
+              "ner": "LOCATION",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 37,
+              "word": "that",
+              "originalText": "that",
+              "lemma": "that",
+              "characterOffsetBegin": 285,
+              "characterOffsetEnd": 289,
+              "pos": "WDT",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 38,
+              "word": "left",
+              "originalText": "left",
+              "lemma": "leave",
+              "characterOffsetBegin": 290,
+              "characterOffsetEnd": 294,
+              "pos": "VBD",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 39,
+              "word": "32",
+              "originalText": "32",
+              "lemma": "32",
+              "characterOffsetBegin": 295,
+              "characterOffsetEnd": 297,
+              "pos": "CD",
+              "ner": "NUMBER",
+              "normalizedNER": "32.0",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 40,
+              "word": "civilians",
+              "originalText": "civilians",
+              "lemma": "civilian",
+              "characterOffsetBegin": 298,
+              "characterOffsetEnd": 307,
+              "pos": "NNS",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": " "
+            },
+            {
+              "index": 41,
+              "word": "dead",
+              "originalText": "dead",
+              "lemma": "dead",
+              "characterOffsetBegin": 308,
+              "characterOffsetEnd": 312,
+              "pos": "JJ",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": " ",
+              "after": ""
+            },
+            {
+              "index": 42,
+              "word": ".",
+              "originalText": ".",
+              "lemma": ".",
+              "characterOffsetBegin": 312,
+              "characterOffsetEnd": 313,
+              "pos": ".",
+              "ner": "O",
+              "speaker": "PER0",
+              "before": "",
+              "after": ""
+            }
+          ]
+        }
+      ],
+      "corefs": {
+        "18": [
+          {
+            "id": 0,
+            "text": "Taliban",
+            "type": "PROPER",
+            "number": "UNKNOWN",
+            "gender": "NEUTRAL",
+            "animacy": "INANIMATE",
+            "startIndex": 1,
+            "endIndex": 2,
+            "headIndex": 1,
+            "sentNum": 1,
+            "position": [
+              1,
+              1
+            ],
+            "isRepresentativeMention": false
+          },
+          {
+            "id": 18,
+            "text": "The Taliban",
+            "type": "PROPER",
+            "number": "UNKNOWN",
+            "gender": "NEUTRAL",
+            "animacy": "INANIMATE",
+            "startIndex": 1,
+            "endIndex": 3,
+            "headIndex": 2,
+            "sentNum": 3,
+            "position": [
+              3,
+              13
+            ],
+            "isRepresentativeMention": true
+          }
+        ]
+      }
+    }
+  }
+}

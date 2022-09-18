@@ -1,0 +1,138 @@
+{
+    "best_dist": {
+        "score": 7.05533438520405,
+        "error_count": 2,
+        "avg": 0.35276671926020253,
+        "weight": [
+            0.1,
+            0.1,
+            0.0,
+            0.4
+        ],
+        "norm_score": 0.0,
+        "weights": [
+            [
+                0.1,
+                0.1,
+                0.0,
+                0.4
+            ],
+            [
+                0.1,
+                0.1,
+                0.1,
+                0.5
+            ],
+            [
+                0.1,
+                0.1,
+                0.2,
+                0.6
+            ],
+            [
+                0.1,
+                0.1,
+                0.3,
+                0.7
+            ],
+            [
+                0.1,
+                0.1,
+                0.4,
+                0.8
+            ],
+            [
+                0.1,
+                0.1,
+                0.5,
+                0.9
+            ],
+            [
+                0.1,
+                0.1,
+                0.6,
+                1.0
+            ],
+            [
+                0.2,
+                0.2,
+                0.1,
+                0.9
+            ]
+        ]
+    },
+    "golden_groups": [
+        {
+            "stats": {
+                "mean": 0.1125,
+                "variance": 0.00109375,
+                "standard_deviation": 0.033071891388307385,
+                "median": 0.1,
+                "median_low": 0.1,
+                "median_high": 0.1,
+                "median_grouped": 0.17142857142857137,
+                "mode": 0.1
+            },
+            "data": [
+                [
+                    1,
+                    2
+                ]
+            ]
+        },
+        {
+            "stats": {
+                "mean": 0.1125,
+                "variance": 0.00109375,
+                "standard_deviation": 0.033071891388307385,
+                "median": 0.1,
+                "median_low": 0.1,
+                "median_high": 0.1,
+                "median_grouped": 0.17142857142857137,
+                "mode": 0.1
+            },
+            "data": [
+                [
+                    1,
+                    2
+                ]
+            ]
+        },
+        {
+            "stats": {
+                "mean": 0.275,
+                "variance": 0.039375,
+                "standard_deviation": 0.1984313483298443,
+                "median": 0.25,
+                "median_low": 0.2,
+                "median_high": 0.3,
+                "median_grouped": -0.2,
+                "mode": 0.1
+            },
+            "data": [
+                [
+                    0,
+                    6
+                ]
+            ]
+        },
+        {
+            "stats": {
+                "mean": 0.725,
+                "variance": 0.039375,
+                "standard_deviation": 0.1984313483298443,
+                "median": 0.75,
+                "median_low": 0.7,
+                "median_high": 0.8,
+                "median_grouped": 0.30000000000000004,
+                "mode": 0.9
+            },
+            "data": [
+                [
+                    4,
+                    10
+                ]
+            ]
+        }
+    ]
+}

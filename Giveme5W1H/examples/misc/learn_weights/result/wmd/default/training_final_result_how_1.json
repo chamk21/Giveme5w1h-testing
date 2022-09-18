@@ -1,0 +1,114 @@
+{
+    "best_dist": {
+        "score": 28.38705334321743,
+        "error_count": 9,
+        "avg": 0.3735138597791767,
+        "weight": [
+            0.0,
+            0.8,
+            1.0,
+            0.30000000000000004
+        ],
+        "norm_score": 0.0,
+        "weights": [
+            [
+                0.0,
+                0.8,
+                1.0,
+                0.30000000000000004
+            ],
+            [
+                0.0,
+                0.8,
+                0.9,
+                0.2
+            ],
+            [
+                0.0,
+                0.8,
+                0.8,
+                0.1
+            ],
+            [
+                0.0,
+                0.8,
+                0.7000000000000001,
+                0.0
+            ]
+        ]
+    },
+    "golden_groups": [
+        {
+            "stats": {
+                "mean": 0.0,
+                "variance": 0.0,
+                "standard_deviation": 0.0,
+                "median": 0.0,
+                "median_low": 0.0,
+                "median_high": 0.0,
+                "median_grouped": 0.0,
+                "mode": 0.0
+            },
+            "data": [
+                [
+                    0,
+                    0
+                ]
+            ]
+        },
+        {
+            "stats": {
+                "mean": 0.8,
+                "variance": 0.0,
+                "standard_deviation": 0.0,
+                "median": 0.8,
+                "median_low": 0.8,
+                "median_high": 0.8,
+                "median_grouped": 0.8,
+                "mode": 0.8
+            },
+            "data": [
+                [
+                    8,
+                    8
+                ]
+            ]
+        },
+        {
+            "stats": {
+                "mean": 0.8500000000000001,
+                "variance": 0.012499999999999995,
+                "standard_deviation": 0.11180339887498947,
+                "median": 0.8500000000000001,
+                "median_low": 0.8,
+                "median_high": 0.9,
+                "median_grouped": 0.4,
+                "mode": null
+            },
+            "data": [
+                [
+                    7,
+                    10
+                ]
+            ]
+        },
+        {
+            "stats": {
+                "mean": 0.15000000000000002,
+                "variance": 0.012500000000000002,
+                "standard_deviation": 0.1118033988749895,
+                "median": 0.15000000000000002,
+                "median_low": 0.1,
+                "median_high": 0.2,
+                "median_grouped": -0.3,
+                "mode": null
+            },
+            "data": [
+                [
+                    0,
+                    3
+                ]
+            ]
+        }
+    ]
+}
