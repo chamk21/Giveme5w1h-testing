@@ -1,0 +1,16 @@
+requests>=2.20.0
+python_dateutil==2.7.2
+Flask==1.0.1
+geopy==1.13.0
+jinja2>=2.10.1
+lxml==4.6.3
+nltk==3.4.5
+numpy==1.14.3
+pandas==0.22.0
+parsedatetime==2.4
+plotly==2.5.1
+stanza>=1.1.1
+spacy==2.0.11
+Twisted==20.3.0
+typing==3.6.4
+Unidecode==1.0.22
